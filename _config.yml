@@ -1,0 +1,1 @@
+exclude: ['20181027_log4j2_1.md', 'Gemfile.lock', 'Gemfile']

@@ -25,6 +25,5 @@ If not now,when?If not me,who?
 | 持续优化 | [《安全建设》](20190604_src.md) |
 | 持续优化 | [《规范建设》](20190604_src.md) |
 | 技术分享 | [《Redis实战分享》](20180525_redis.md) |
-| 技术实战 | [《一次binlog恢复mysql数据过程》](20190604_binlog.md) |
+| 技术实战 | [《一次binlog恢复mysql数据过程》](20190102_binlog.md) |
 | 技术预研 | [《Elasticsearch预研》](20190524_es.md) |
-
